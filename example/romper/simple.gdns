@@ -1,0 +1,9 @@
+[gd_resource type="NativeScript" load_steps=2 format=2]
+
+[ext_resource path="res://romper/romper.gdnlib" type="GDNativeLibrary" id=1]
+
+[resource]
+resource_name = "romper_simple"
+class_name = "romper_simple"
+library = ExtResource( 1 )
+script_class_name = "romper_simple"
